@@ -1,0 +1,8 @@
+# Skyblockratlogin
+
+once you are into any server, do /fakelogin.
+after that, put the username of the person you are ratting.
+also paste the uuid of the player into the box below.
+next, put their token.  if you wanna test it here is a token: eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQwOTgwMTE5NTU0OSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiZWM5ZmI2YTgtOTQ0My00Yzg5LWI2NDEtMjBkMjcxMjRmNmUzIiwibmJmIjoxNjQ5NTUzNzYwLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NDk2NDAxNjAsImlhdCI6MTY0OTU1Mzc2MCwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiI1NzMwMDMyNGU3Zjc0MGI3OTAwZWRhYjhhZTJhMzg3YyJ9.QUjnRiWbESLTNCgZvEq72lfJQ5gIY3gDX_7Xtlk5LJE:e73ba17f16fd4facb6eb62b987bf9ea7
+once you are done, press enter.
+Enjoy!
